@@ -1,0 +1,21 @@
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Supriya\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\MachineLearningID3.csprojResolveAssemblyReference.cache
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+F:\MLHW1(sgk140430)\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\MLHW1(sgk140430)\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\MachineLearningID3.csprojResolveAssemblyReference.cache
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\MLHW1(sgk140430)-modified\SourceCode\ConsoleApplication5\ConsoleApplication5\obj\Debug\MachineLearningID3.csprojResolveAssemblyReference.cache
